@@ -41,6 +41,7 @@ const SITES = [
   'creator-translator', 'elite-picture-engineer', 'elite-photo-creator',
   'elite-title-creator', 'daily-paint-planner', 'may-challenge', 'basquiat-reverse',
   'basquiat-reference', 'elite-weekly-target', 'elite-shift-planner', 'listing-workshop',
+  'april-challenge',
 ];
 const DOMAINS = /^https:\/\/([a-z0-9-]+\.)*(corbellic-businessbuilder\.com|corbellic\.com)$/i;
 
