@@ -19,9 +19,9 @@ const ANTHROPIC = 'https://api.anthropic.com/v1/messages';
 const VERSION = '2023-06-01';
 
 // Models a tool may ask for. The first is what a page gets when it names
-// something else (an old id, a typo, or Opus).
+// something else (the retired claude-sonnet-4-20250514 the pages still name, a typo, or Opus).
 const MODELS = [
-  'claude-sonnet-4-20250514',
+  'claude-sonnet-4-6',
   'claude-sonnet-4-5',
   'claude-haiku-4-5',
 ];
